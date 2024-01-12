@@ -6,5 +6,6 @@ public class HelloWorld{
         System.out.println("What is your name?: ");
         String name = input.next();
         System.out.println("Hello, " + name);
+        System.out.println("The Quadratic formula is -b +- sqrt(b^2 - 4ac)");
     }
 }
